@@ -1,0 +1,6 @@
+{
+  "name": "ClipNotes Local - Video Annotator & Drag Out",
+  "description": "Drag-and-drop local video player with live notes, timestamped markers, and direct drag-and-drop export to desktop, video editors, and spreadsheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
